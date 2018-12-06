@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson4</string>
+    <string name="change_state">Change State</string>
+    <string name="no_state">No state.</string>
+    <string name="current_state_is">Current state is %s</string>
+    </resources>
