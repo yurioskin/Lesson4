@@ -8,6 +8,7 @@ public class MyIntentService extends IntentService {
     public static final String ACTION_CHANGE_STATE = "com.example.oskin.lesson4.action.change.state";
 
     public static final String NEW_STATE = "com.example.oskin.lesson4.key.new.state";
+    //TODO separate permission filter
 
     public MyIntentService() {
         super("MyIntentService");
